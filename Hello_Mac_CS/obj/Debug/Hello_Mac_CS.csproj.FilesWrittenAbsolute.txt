@@ -1,0 +1,9 @@
+/Users/airatch/Projects/Hello_Mac_CS/Hello_Mac_CS/obj/Debug/Xamarin.Mac,Version=v2.0.AssemblyAttribute.cs
+/Users/airatch/Projects/Hello_Mac_CS/Hello_Mac_CS/obj/Debug/ibtool-manifests/MainWindow.nib
+/Users/airatch/Projects/Hello_Mac_CS/Hello_Mac_CS/obj/Debug/ibtool-manifests/MainMenu.nib
+/Users/airatch/Projects/Hello_Mac_CS/Hello_Mac_CS/obj/Debug/ibtool/MainMenu.nib
+/Users/airatch/Projects/Hello_Mac_CS/Hello_Mac_CS/obj/Debug/ibtool/MainWindow.nib
+/Users/airatch/Projects/Hello_Mac_CS/Hello_Mac_CS/bin/Debug/Hello_Mac_CS.exe.mdb
+/Users/airatch/Projects/Hello_Mac_CS/Hello_Mac_CS/bin/Debug/Hello_Mac_CS.exe
+/Users/airatch/Projects/Hello_Mac_CS/Hello_Mac_CS/obj/Debug/Hello_Mac_CS.exe
+/Users/airatch/Projects/Hello_Mac_CS/Hello_Mac_CS/obj/Debug/Hello_Mac_CS.exe.mdb
