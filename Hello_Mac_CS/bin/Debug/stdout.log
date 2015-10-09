@@ -1,4 +1,9 @@
 Hello Mac from CS!
  >> Server Started
-WARNING: The runtime version supported by this application is unavailable.
-Using default runtime: v4.0.30319
+ >> Accept connection from client
+Reading from the scoket......
+Request number : 1
+System.ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: offset+size exceeds the size of buffer
+  at System.Net.Sockets.NetworkStream.Read (System.Byte[] buffer, Int32 offset, Int32 size) [0x00044] in /Library/Frameworks/Xamarin.Mac.framework/Versions/2.0.2.111/src/mono/mcs/class/System/System.Net.Sockets/NetworkStream.cs:362 
+  at Hello_Mac_CS.MainClass.Main (System.String[] args) [0x00090] in /Users/airatch/Projects/Hello_Mac_CS/Hello_Mac_CS/Main.cs:40 System.Net.Sockets.TcpListener
